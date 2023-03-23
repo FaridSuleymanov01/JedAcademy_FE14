@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        textarea{
+            resize: none;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="https://www.w3schools.com/html/html_forms.asp" method="post">
+        <fieldset>
+            <legend>My form</legend>
+            <label for="username">Enter your name :
+                <input type="text" id="username" placeholder="" value="Murad" />
+            </label>
+            <br>
+            <label for="useremail">Enter your email
+                <input type="email" id="useremail" placeholder="your email" />
+            </label>
+            <br>
+            <label for="userpassword"> Enter your password
+                <input type="password" id="userpassword">
+            </label>
+            <br>
+            <label for="fd"> Suscribe
+                <input type="checkbox" id="fd" checked>
+            </label>
+            <br>
+
+            <label for="male"> Male
+                <input type="radio" id="male" value="male" name="gender">
+            </label>
+            <label for="female"> Famale
+                <input type="radio" id="female" value="female" name="gender">
+            </label>
+            <br>
+
+            <label for="photo"> Enter your Photo</label>
+            <input type="file" id="photo">
+            <br>
+
+            <label for="color"> Choose color</label>
+            <input type="color" id="color">
+            <br>
+
+
+            <label for="date"> Choose your birthday</label>
+            <input type="date" id="date">
+            <br>
+
+
+            <label for="date-local"> Choose your birthday</label>
+            <input type="datetime-local" id="date-local">
+            <br>
+
+            <label for="number">Enter your phone num</label>
+            <input type="number" id="number">
+            <br>
+
+            <label for="phone">Enter your phone num</label>
+            <input type="tel" id="phone">
+            <br>
+
+            <label for="search">Search input</label>
+            <input type="search" id="search">
+            <br>
+
+            <label for="userid">Enter you id</label>
+            <input type="hidden" id="userid" value="id" >
+            <br>
+            <br>
+            <br>
+
+            <select>
+                <option value="html">Html</option>
+                <option value="css">Css</option>
+                <option value="js">Javascript</option>
+                <option value="react">React</option>
+            </select>
+            <br> <br>
+            <textarea rows="10" cols="50" placeholder="message"></textarea>
+            <br>
+            <button type="submit">Send data</button>
+
+
+        </fieldset>
+    </form>
+
+
+
+    <!-- <input type="search" id="search" />
+    <button type="submit" id="btn">search</button> -->
+
+
+    <script>
+        let sh = document.querySelector("#search")
+        sh.addEventListener("keyup", () => {
+            console.log(sh.value);
+        })
+    </script>
+    
+</body>
+
+</html>
