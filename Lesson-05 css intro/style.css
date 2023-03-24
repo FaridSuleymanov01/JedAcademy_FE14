@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+h1 {
+    font-weight: 100;
+    color: blueviolet;
+}
+
+
+/* #paragraf1 {
+    color: green;
+    font-size: 34px;
+}
+
+#paragraf2{
+    background-color: black;
+} */
+
+
+/* .desc {
+    color: blue;
+    background-color: #f1c40f;
+    /* background:; */
+/* font-size: 24px;
+    
+}
+
+.paraf {
+    color: brown;
+} */
+
+
+.paraf {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    /* font-style: italic; */
+}

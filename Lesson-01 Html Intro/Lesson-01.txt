@@ -1,0 +1,15 @@
+Html Structer
+=> DOCTYPE
+=> html
+=> head
+=> body
+=> title
+=> meta
+=> h1-h6
+=> main
+=> footer
+=> section
+=> p
+=> hr
+=> br
+=> img -src,alt

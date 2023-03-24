@@ -1,0 +1,50 @@
+Lesson-02
+- Client <=> Server
+- Html tags
+- Paired Tags (Opening and Closing Tags)
+- Unpaired Tags (Singular Tag)
+- <p> => paragraf
+- <b> => bold
+- <br> => break
+- <img /> => image tag
+- src => source attribute
+- alt => alternate text
+
+- html structer
+- <!DOCTYPE html> 
+- <html> -tag
+- lang attriubte (en,ru,tr,es,fr)
+- https://caniuse.com/
+- <head> and <body>
+- <title> and <meta>
+- charset="UTF-8"
+
+- <b> or <strong>  
+- <i> or <em>
+- <hr> - horizontal rule 
+- heading tags(h1--h6)
+
+- html list tags
+- <ul> => unordered list
+- <ol> => ordered list
+- type => attribute
+- start => attribute
+- reversed => attribute
+- example => <ol type="A" start="3">
+- example => <ul type="circle">
+
+- <a> => anchor tag (link)
+- href => attribute
+
+- <table>=> table tag
+- <thead> and <tbody>
+- <tr> => table row
+- <th> and <td> (table header cell and table data cell)
+- style => attribute
+- border => attribute
+- border-collapse: (separate or collapse);
+
+- https://validator.w3.org/ => validations
+
+- ID => attribute
+- integration link tag

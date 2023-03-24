@@ -1,0 +1,28 @@
+- CSS haqqında əsas məlumatlar
+- CSS sintaksisi və qaydaları
+- CSS seçiciləri
+- CSS property-ləri və dəyərləri
+
+=> title
+
+=> class,id,tag
+=> color 
+=> font-size
+=> colors (RGB,HEX,color)
+=> background-color
+=> font-weigth
+=> font-style
+=> font-family
+=> google-fonts
+
+=> kompleks selector
+=> Psevdosiniflər
+=> hover
+=> icons
+
+
+https://www.w3schools.com/cssref/index.php
+https://developer.mozilla.org/en-US/docs/Web/CSS/color
+https://developer.mozilla.org/en-US/docs/Web/CSS
+https://flatuicolors.com/
+https://www.w3schools.com/cssref/index.php
