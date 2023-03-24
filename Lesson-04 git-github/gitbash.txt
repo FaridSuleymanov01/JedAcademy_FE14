@@ -1,0 +1,34 @@
+## Sıfırdan repo yardarkən:
+        git init - localda boş repo yaradır(izləmə sistemi qurur)
+        git add . - bütün dəyişikliyi localda repoya əlavə edir.
+        git commit -m "umumi məlumat" - etdiyiniz dəyişiklik barədə şərh yazırsınız.
+        git remote add origin bura_repo_linki_əlave_edilir - localı globala bağlayır.
+        git branch -M branch_adı - branch yaratmaq üçün command.
+        git checkout branch_adı - branchlar arasında keçid etmək üçün command.
+        git push -u origin branc_adı - localdakı dəyişikliyi global repoya əlavə edir.
+
+## var olan repoya access üçün:
+        git clone bura_repo_linki_əlave_edilir - reponu clone edirik.
+        git add . - bütün dəyişikliyi localda repoya əlavə edir.
+        git commit -m "umumi məlumat" - etdiyiniz dəyişiklik barədə şəth yazırsınız.
+        git branch -M branch_adı - branch yaratmaq üçün command.
+        git checkout branch_adı - branchlar arasına keçid etmək üçün command.
+        git push -u origin branc_adı - localdakı dəyişikliyi global repoya əlavə edir.
+
+## access olan repoda globalda olan dəyişikliyi dartmaq üçün:
+        git pull origin branch_adi - deyişikliyi çəkmək istədiyimiz branch adını yazırıq
+
+## git bash-a username ve useremail bağlamaq üçün:
+    ## ümumi gitbash üçün(global)
+        git config --global user.name "username" - github hesabını adını əlavə edirik.
+        git config --global user.email "email" - github hesabının bağlı olduğu maili əlavə edirik.    
+
+    ## xüsusi bir repo üçün username əlavə edərkən:
+        git config user.name "username" - github hesabını adını əlavə edirik.
+        git config user.email "email" - github hesabının bağlı olduğu maili əlavə edirik.
+
+    ## etibarname
+        git config --global credential.username - "username" - (global etibarname) github hesabını adını əlavə edirik.
+	git config --global credential.useremail - "useremail" - (global etibarname) github mail-ni əlavə edirik.
+        git config credential.username  - (xüsusi bir repo üçün) 
+        git config credential.useremail  - (xüsusi bir repo üçün) 
