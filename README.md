@@ -2,10 +2,10 @@
 ## Students
 - [Ləman Axundova](https://github.com/lmnxndv/Jed_FE-14)
 - [Məmmədov Əli]()
-- [Mənsimov Vasif]()
-- [Süleymanov Fərid]()
-- [Köçərli Billur]()
-- [Rzayev Mircəfər]()
+- [Mənsimov Vasif](https://github.com/Vasif778/JedAcademy_FE14)
+- [Süleymanov Fərid](https://github.com/FaridSuleymanov01/JedAcadamy-Fe14)
+- [Köçərli Billur](https://github.com/BillurKocharli/JedAcademyFe-14)
+- [Rzayev Mircəfər](https://github.com/Mirdcafar/JedAcademy_FE14)
 - [Quliyev Məhəmməd]()
 - [Məmmədov Yusif]()
 
