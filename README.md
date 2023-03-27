@@ -1,7 +1,7 @@
 # Welcome to JedAcademy_FE14 Repo
 ## Students
 - [Ləman Axundova](https://github.com/lmnxndv/Jed_FE-14)
-- [Məmmədov Əli]()
+- [Məmmədov Əli](https://github.com/AliMemmedovh/)
 - [Mənsimov Vasif](https://github.com/Vasif778/JedAcademy_FE14)
 - [Süleymanov Fərid](https://github.com/FaridSuleymanov01/JedAcadamy-Fe14)
 - [Köçərli Billur](https://github.com/BillurKocharli/JedAcademyFe-14)
