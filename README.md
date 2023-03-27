@@ -20,7 +20,7 @@
 > [go live](https://jed-task-03.netlify.app/)
 
 ## Task-04
-- Pseudo class istifadə edilməlidir (first-child, nth-child və.s)
+- Pseudo class istifadə edilməlidir (first-child, nth-child ,hover və.s)
 - Google fonts-dan Roboto şrifti qoşulmalıdır.
 > [go live](https://jed-task-04.netlify.app/)
 
