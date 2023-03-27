@@ -1,0 +1,141 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+/* 
+reset css
+padding
+margin
+list-style-type:none;
+text-decoration;
+text-aligin;
+border-collapse;
+
+li:nth-child()
+li:nth-child(odd)
+li:nth-child(even)
+li:first-child
+li:last-child
+border-width: 4px;
+border-style:groove;
+border-color: blue
+border: 3px dashed tomato;
+
+ul li
+ul>li
+ul.list
+ */
+/* 
+ body{
+    cursor: progress;
+ } */
+
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    color: white;
+    /* font-family:; */
+    /* font-style: ; */
+}
+
+.list1 {
+    background-color: rgb(228, 221, 236);
+}
+
+.list2 {
+    background-color: crimson;
+}
+
+.list1>li:first-child {
+    color: yellow;
+    font-size: 24px;
+}
+
+.list1>li:nth-child(2) {
+    font-size: 30px;
+    text-decoration: line-through;
+}
+
+
+.list1 li:nth-child(3) {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.list1>li:last-child {
+    color: aqua;
+    font-size: 20px;
+}
+
+.list1>li:nth-child(odd) {
+    color: blue;
+}
+
+.list1>li:nth-child(even) {
+    color: yellow;
+}
+
+/* li:nth-child(5){
+    color: blue;
+    text-decoration: dotted;
+    font-size: 40px;
+} */
+
+table {
+    width: 600px;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: blueviolet;
+    color: #fff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #c3c0c0;
+}
+
+/* Hover */
+
+.container {
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+    border: 3px dashed tomato;
+    transition: all ease-out .2s;
+
+    /* border-width: 4px;
+    border-style: groove;
+    border-color: blue; */
+}
+
+.container:hover{
+    background-color: #050505;
+    cursor: not-allowed;
+    border-style:solid;
+    color: #fff;
+    transition: all ease-in .4s;
+}
+
+.container>p{
+    color: tomato;
+}
+
+/* .container:hover{} */
+
+.desc {
+    text-align: center;
+    font-style: italic;
+    font-weight: 900;
+}
+
+.info p:nth-child(4){
+    color: tomato;
+    font-size: 25px;
+}
