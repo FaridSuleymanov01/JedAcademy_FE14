@@ -20,6 +20,7 @@
 > [go live](https://jed-task-03.netlify.app/)
 
 ## Task-04
+- Pseudo class istifadə edilməlidir (first-child, nth-child və.s)
 > [go live](https://jed-task-04.netlify.app/)
 
 ## Task-05
