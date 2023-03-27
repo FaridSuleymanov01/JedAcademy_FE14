@@ -21,7 +21,9 @@
 
 ## Task-04
 - Pseudo class istifadə edilməlidir (first-child, nth-child və.s)
+- Google fonts-dan Roboto şrifti qoşulmalıdır.
 > [go live](https://jed-task-04.netlify.app/)
 
 ## Task-05
+- Google fonts-dan Roboto şrifti qoşulmalıdır.
 > [go live](https://jed-task-05.netlify.app/)
