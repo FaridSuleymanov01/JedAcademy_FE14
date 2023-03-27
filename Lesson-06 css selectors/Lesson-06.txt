@@ -1,0 +1,18 @@
+=> kompleks selector
+=> Psevdosiniflər
+=> hover
+=> icons
+
+ - width
+ - height
+
+ - Text-align property
+ - Text-decoration property
+ - Line-height property
+ - important
+
+
+Box model və elementlər arasındakı münasibət
+ - Padding, border, margin
+ - Box sizing property
+ - Display property
