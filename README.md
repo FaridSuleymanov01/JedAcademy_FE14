@@ -11,19 +11,19 @@
 
 
 ## Task-01
-> [go live](https://jed-task-01.netlify.app/)
+> [go live](https://html-task-01.netlify.app/)
 
 ## Task-02
-> [go live](https://jed-task-02.netlify.app/)
+> [go live](https://html-task-02.netlify.app/)
 
 ## Task-03
-> [go live](https://jed-task-03.netlify.app/)
+> [go live](https://html-task-03.netlify.app/)
 
 ## Task-04
 - Pseudo class istifadə edilməlidir (first-child, nth-child ,hover və.s)
 - Google fonts-dan Roboto şrifti qoşulmalıdır.
-> [go live](https://jed-task-04.netlify.app/)
+> [go live](https://css-task-04.netlify.app/)
 
 ## Task-05
 - Google fonts-dan Roboto şrifti qoşulmalıdır.
-> [go live](https://jed-task-05.netlify.app/)
+> [go live](https://css-task-05.netlify.app/)
