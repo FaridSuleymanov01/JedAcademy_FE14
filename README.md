@@ -9,11 +9,18 @@
 - [Quliyev Məhəmməd]()
 - [Məmmədov Yusif]()
 
+
 ## Task-01
-> [go live](https://jed-academy-tasks.vercel.app/)
+> [go live](https://jed-task-01.netlify.app/)
 
 ## Task-02
-> [go live](https://jed-academy-tasks-a2hy.vercel.app/)
+> [go live](https://jed-task-02.netlify.app/)
 
 ## Task-03
-> [go live](https://jed-academy-tasks-le84.vercel.app/)
+> [go live](https://jed-task-03.netlify.app/)
+
+## Task-04
+> [go live](https://jed-task-04.netlify.app/)
+
+## Task-05
+> [go live](https://jed-task-05.netlify.app/)
