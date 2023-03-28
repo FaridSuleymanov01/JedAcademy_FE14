@@ -1,0 +1,39 @@
+<= box model =>
+=> width, max-width, min-width
+=> height, max-height, min-height
+=> margin property
+=> margin- top,right,bottom,left
+=> padding property
+=> padding- top,right,bottom,left
+=> border property
+=> border style 
+=> border width
+=> border color 
+=> border radius 
+=> box-sizing property
+=> box-sizing: border-box;
+=> box-sizing: content-box;
+
+=> outline property
+=> outline style 
+=> outline width
+=> outline color 
+
+=> overflow: hidden;
+
+<= Display property =>
+=> display - block
+=> display - inline
+=> display - inline-block
+=> display - none
+
+=> opacity property
+=> visbility property
+
+=> line-height property
+=> letter-spacing property
+=> word-spacing property
+
+=> important property
+
+=> id, class and inline css - specificity

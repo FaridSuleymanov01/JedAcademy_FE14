@@ -1,6 +1,0 @@
-Html tables
-html forms
-html block and inline tags
-<video>
-<audio>
-<iframe>

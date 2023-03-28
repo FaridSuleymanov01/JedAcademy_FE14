@@ -1,0 +1,45 @@
+html forms
+html block and inline tags
+<video>
+<audio>
+<iframe>
+
+=> pre tag
+
+=> form tags
+=> form action and method attribute
+=> fieldset tag
+=> legend tag
+=> label tag
+=> label for attribute
+=> input tag 
+=> input type attribute
+=> input name attribute
+=> input id attribute
+=> input value attribute
+=> input requeird attribute
+=> input placeholder attribute
+=> input type text
+=> input type email
+=> input type password
+=> input type checkbox
+=> input type radio
+=> input type file
+=> input type color
+=> input type date
+=> input type datetime-local
+=> input type number
+=> input type tel
+=> input type search
+=> input type hidden
+
+=> select tag
+=> option tag
+
+=> textarea tag
+=> textarea rows, cols attribute
+=> textarea resize
+
+=> button types 
+=> submit, reset, button
+
