@@ -1,0 +1,36 @@
+=> margin-inline
+=> icons
+
+
+=> flex box 
+=> display - flex property
+
+=> flex-direction property
+=> row, row-reverse
+=> column, column-reverse
+
+=> flex-wrap property
+=> nowrap
+=> wrap
+=> wrap-reverse
+
+=> main axis -soldan sağa
+=> Nass axis - yuxarıdan aşağı
+
+=> justify-content
+=> flex-start,flex-end
+=> center
+=> space-between, space-around
+=> space-evenly
+
+=> align-items
+=> center
+=> flex-start,flex-end 
+=> baseline, stretch
+
+=> flex-direction column or row , justify-content and aligin-items
+
+
+
+
+https://fontawesome.com/v6/search?o=r&m=free

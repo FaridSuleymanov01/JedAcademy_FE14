@@ -1,0 +1,32 @@
+=> root element
+
+=> rem,em,px difference
+=> em - font-size(px) * width(height) em ((((root))))
+=> rem - root em 
+
+https://flexboxfroggy.com/#tr
+
+
+em >=
+.container {
+  font-size: 14px;
+  height: 10em;
+  background-color: #88dbf2;
+}
+.block {
+  font-size: 9px;
+  height: 10em;
+  background-color: red;
+}
+
+rem >=
+.container {
+    height: 10rem;
+    margin: 0 auto;
+    background-color: #88dbf2;
+}
+
+.block {
+    height: 5rem;
+    background-color: red;
+}

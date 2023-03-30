@@ -44,15 +44,16 @@
 :right
 bottom
 :left */
+
 /* .d-flex{
     color: blue !important;
-}  */
-/* #d-flex {
+} 
+.d-flex {
     display: flex;
     color: red;
-}
+} */
 
-
+/* 
 
 
 #item {
@@ -76,7 +77,7 @@ bottom
     letter-spacing: 4px;
     word-spacing: 10px;
 } */
-
+/* 
 span {
     display: inline-block;
     width: 200%;
@@ -93,6 +94,27 @@ span:hover {
     opacity: 0.5;
     transition: all ease-in .3s;
     scale: 1.2;
-}
+} */
 
 /* px , %, rem, em */
+
+
+/* .item{
+    height: 200px;
+    width: 200px;
+    background-color: tomato;
+    opacity: 1;
+}
+
+
+
+
+#desc{
+    color: black;
+    font-size: 24px;
+}
+
+.desc{
+    color: blue !important ;
+} */
+
