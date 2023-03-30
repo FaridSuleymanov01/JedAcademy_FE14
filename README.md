@@ -10,20 +10,40 @@
 - [Məmmədov Yusif]()
 
 
-## Task-01
+### Html Module
+
+#### Task-01
+
 > [go live](https://html-task-01.netlify.app/)
 
-## Task-02
+#### Task-02
+
 > [go live](https://html-task-02.netlify.app/)
 
-## Task-03
+#### Task-03
+
 > [go live](https://html-task-03.netlify.app/)
 
-## Task-04
+### Css Module
+
+#### Task-04
+
 - Pseudo class istifadə edilməlidir (first-child, nth-child ,hover və.s)
 - Google fonts-dan Roboto şrifti qoşulmalıdır.
-> [go live](https://css-task-04.netlify.app/)
 
-## Task-05
+  > [go live](https://css-task-04.netlify.app/)
+
+#### Task-05
+
 - Google fonts-dan Roboto şrifti qoşulmalıdır.
-> [go live](https://css-task-05.netlify.app/)
+
+  > [go live](https://css-task-05.netlify.app/)
+
+#### Task-06
+
+- Google fonts-dan Montserrat şrifti qoşulmalıdır.
+- background rəngi - #f0fff8;
+- Mətnlərin rəngi - #80ced6;
+- Diqqət edilməli olan propertylər - padding, margin, min-width, max-width, border, border-radius
+
+  > [go live](https://css-task-06.netlify.app/)
