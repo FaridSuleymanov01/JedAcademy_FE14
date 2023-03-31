@@ -27,23 +27,34 @@
 ### Css Module
 
 #### Task-04
-
 - Pseudo class istifadə edilməlidir (first-child, nth-child ,hover və.s)
 - Google fonts-dan Roboto şrifti qoşulmalıdır.
 
   > [go live](https://css-task-04.netlify.app/)
 
 #### Task-05
-
 - Google fonts-dan Roboto şrifti qoşulmalıdır.
 
   > [go live](https://css-task-05.netlify.app/)
 
 #### Task-06
-
 - Google fonts-dan Montserrat şrifti qoşulmalıdır.
 - background rəngi - #f0fff8;
 - Mətnlərin rəngi - #80ced6;
 - Diqqət edilməli olan propertylər - padding, margin, min-width, max-width, border, border-radius
 
   > [go live](https://css-task-06.netlify.app/)
+  
+#### Task-07
+- Flexbox ilə hazırlanmalıdır
+- Şriftlərə diqqət edilməlidir
+
+  > [go live](https://css-task-07.netlify.app/)
+
+#### Task-08
+- Flex-box ilə hazırlanmalıdır
+- image üçün object-fit property-si araşdırlıb tətbiq edilməlidir.
+- şriftə diqqət eilməlidir
+
+  > [go live](https://css-task-08.netlify.app/)
+
